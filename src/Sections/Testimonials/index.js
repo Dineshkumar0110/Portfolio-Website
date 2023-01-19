@@ -86,25 +86,25 @@ const Testimonials = () => {
           <Card
             text="Team Member"
             name="Dinesh Kumar"
-            image="avatar-1"
+            
           />
 
           <Card
             text="Team Member"
             name="Ashish Sai"
-            image="avatar-2"
+            
           />
 
           <Card
             text="Team Member"
             name="Sumanth"
-            image="avatar-3"
+            
           />
 
           <Card
             text="Team Lead"
             name="Vinay Kumar"
-            image="avatar-4"
+            
           />
         </Slider>
       </Carousal>
